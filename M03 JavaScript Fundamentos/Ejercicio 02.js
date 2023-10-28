@@ -2,7 +2,6 @@
 /*2️⃣ EJERCICIO 02 2️⃣*/
 
 function devolverString(string) {
-   string = "str"
    return string
 }
 
